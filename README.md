@@ -1,2 +1,2 @@
 # codelocker
-exploring GitHub!
+The treasure of code!
